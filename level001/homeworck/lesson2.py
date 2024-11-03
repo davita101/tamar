@@ -21,5 +21,9 @@ input
 #input არის ფუნქცია რადგან ფრჩხილები მოყვება 
 input #მაგალითები
 name = input("enter your name: ")
-print("hwllo", name) #ამის გაშვების შემდეგ ტერმინალში ვწერთ სახელს
+print("hello", name) #ამის გაშვების შემდეგ ტერმინალში ვწერთ სახელს
 age = input()
+
+
+stringebi #(concatination) #ერთდებიან 
+intejerebi #იკრიბებიან
