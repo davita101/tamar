@@ -15,12 +15,12 @@
 # first = int(input("შემოიყვანე რიცხვი1: "))
 # second = int(input("შემოიყვანე რიცხვი2: "))
 
+# # print(first + second)
+# first = int(input("შემოიყვანე რიცხვი: "))
+# second = int(input("შემოიყვანე რიცხვი2: "))
 # print(first + second)
-
-
-
-
-
+# print(first - second)
+# print(first * second)
 
 
 
@@ -29,6 +29,10 @@
 # შეასწორეთ მითითებული ფუნქცია:
 # user = input("enter your name: ") 
 # print(user)
+# user = (input("enter your name: "))
+# print(user)
+
+
 
 # 4)
 # შეასწორეთ მითითებული ფუნქცია:
@@ -36,6 +40,9 @@
 # math = math - 10
 # math = math * 2
 # print(math)
+
+
+
 
 # 5)
 # შექმენით 5 input სახელად academy , school , name , last name , age
@@ -53,6 +60,14 @@
 
 # და ბოლოს დაპრინტეთ ხუთივე
 
+academy = (input("სასწავლო აკადემია: "))
+school = (input("სკოლა: "))
+name = (input("ჩაწერე სახელი: "))
+last_name = (input("ჩაწერე გვარი: "))
+age = int(input("ჩაწერე რამდენის ხარ: "))
+print(academy ,school ,name ,last_name , age )
+      
+
 # print("gamarjoba" + " " + "davit" + 1)
 # print("gamarjoba", "davit", 1)
 
@@ -64,4 +79,5 @@
 
 
 # print("es aris pasuxi: ", num1 + num2)
+
 

@@ -30,7 +30,7 @@ print(name + " " + surname)
 #orint(type(height))
 #orint(type(knows_programming))
 
-print(name + " "+ str(age))
+print(name + " " + str(age))
 
 
 name = input()
