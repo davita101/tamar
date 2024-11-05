@@ -27,3 +27,5 @@ age = input()
 
 stringebi #(concatination) #ერთდებიან 
 intejerebi #იკრიბებიან
+
+
